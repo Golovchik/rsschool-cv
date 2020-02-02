@@ -7,7 +7,9 @@
 [github](https://github.com/Golovchik)
 
 ### Summary: ### 
-I am 1C developer with 3-years expierence in Enterprise Resource Planning. I have started learning HTML & CSS and JS, as it provides opportunities in various bussines areas. So i can become highly skilled specialists.
+I am 1C developer with 3-years expierence in Enterprise Resource Planning. 
+I have started learning HTML & CSS and JS, as it provides opportunities in various bussines areas. 
+So i can become highly skilled specialists.
 
 ### Skills: ### 
 I am a senior 1C programmer. I have basic programming knowledge (C #, HTML, CSS, JS). I am familiar with Software Configuration Management Tools (Git), SQL Databases, Internet Technologies (XML), Software Development Methodologies (Waterflow, SCRUM).
