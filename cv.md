@@ -16,14 +16,14 @@ I am a senior 1C programmer. I have basic programming knowledge (C #, HTML, CSS,
 ### Code examples: ### 
 [https://github.com/Golovchik/BudgetForDay](https://github.com/Golovchik/BudgetForDay)
 
-### Experience : ### 
+### Experience: ### 
  All my projects: [my GitHub](https://github.com/Golovchik).
 
-### Education:: ### 
+### Education: ### 
 - Brest Technical University, Faculty of Electrical Engineering and Information Technology (2012-2017)
 - Codacademy (February 2020)  
  [https://www.codecademy.com/](https://www.codecademy.com/)
 
  ### English: ### 
- My English level is A2(*Pre-intermediate*).
+ My English level is A2(Pre-intermediate).
  
