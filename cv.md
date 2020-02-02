@@ -25,5 +25,5 @@ I am a senior 1C programmer. I have basic programming knowledge (C #, HTML, CSS,
  [https://www.codecademy.com/](https://www.codecademy.com/)
 
  ### English: ### 
- My English level is A2(Pre-intermediate).
+ My English level is A2(Pre-intermediate). I go to English courses.
  
