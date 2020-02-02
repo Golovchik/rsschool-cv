@@ -4,7 +4,6 @@
 
 *mobile +375298216680*  
 *email: golo.vv@yandex.ru*
-*[github](https://github.com/Golovchik)*
 
 ### Summary: ### 
 I am 1C developer with 3-years expierence in Enterprise Resource Planning. 
