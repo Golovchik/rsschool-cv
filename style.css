@@ -10,14 +10,12 @@
     text-decoration: none;
   }
   
-  a:hover {
-    text-decoration: underline;
-  }
   body {
     max-width: 1024px;
     width: 100%;
     height: 10vh;
     margin-left: 10px;
+    text-align: center;
   }
   
   .wrapper {
@@ -25,39 +23,44 @@
     margin: 10 auto;
   }
   
-  .header_title_block {
+  .header-title-block {
     align-items: left;
     margin-top: 10px;
   }
   
-  .header_title_img {
+  .header-title-img {
     width: 350px;
     height: 350px;
   }
 
   .title {
-    text-align: left;
+    text-align: center;
     margin: 20px auto 10px auto;
   }
   
-  .main_skills_list {
+  .main-skills-list {
     display: flex;
     justify-content: space-between;
+  }
+
+  .navabar {
+    list-style-type: square;
   }
   
   figcaption {
     text-align: center;
   }
   
-  .footer_social_container {
+  .footer-social-container {
     display: flex;
     flex-direction: row;
   }
-  .social_block {
+  .social-block {
     margin-bottom: 20px;
+    text-align: center;
   }
-  .social_title {
-    display: flex;
+  .social-title {
+    display: block;
     align-items: center;
   }
  
